@@ -1,4 +1,4 @@
-###🔍 Program Summary: Number Guessing Game with Hints
+### 🔍 Program Summary: Number Guessing Game with Hints
 ## ✅ Purpose:
 This Python script is a simple number guessing game where:
 
