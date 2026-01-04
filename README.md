@@ -1,5 +1,5 @@
-🔍 Program Summary: Number Guessing Game with Hints
-✅ Purpose:
+###🔍 Program Summary: Number Guessing Game with Hints
+## ✅ Purpose:
 This Python script is a simple number guessing game where:
 
 The computer picks a random number between 1 and 100.
@@ -14,12 +14,12 @@ The program gives hints after each guess:
 
 "Right" if the guess is correct.
 
-🧠 How it Works:
+## 🧠 How it Works:
 Random Number Generation:
 
 A random number between 1 and 100 is generated using the random.randrange() function.
 
-Hint System:
+# Hint System:
 
 Cold: If the guess is more than 10 away from the actual number.
 
@@ -35,7 +35,7 @@ The user inputs a number repeatedly.
 
 The game ends when the user guesses the number correctly.
 
-🧪 Example Run:
+## 🧪 Example Run:
 text
 Copy
 Edit
@@ -45,7 +45,7 @@ Enter a number between 1 and 100: 45
 Hot
 Enter a number between 1 and 100: 50
 You guessed it Right!
-💡 Key Features:
+## 💡 Key Features:
 Uses the random module.
 
 Input loop with while True.
